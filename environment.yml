@@ -1,0 +1,11 @@
+name: corporate_tax_transparency_analysis
+dependencies:
+    - python
+    - numpy
+    - pandas
+    - geopandas
+    - plotly
+    - pip
+    - pip:
+      - setuptools
+      - jupyterlab

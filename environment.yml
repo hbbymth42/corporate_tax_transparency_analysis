@@ -4,8 +4,9 @@ dependencies:
     - numpy
     - pandas
     - geopandas
-    - plotly
+    - folium
     - pip
     - pip:
       - setuptools
       - jupyterlab
+      - pyogrio
